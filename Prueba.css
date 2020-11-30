@@ -1,3 +1,12 @@
+.clear {
+    clear: both;
+    display: block;
+    font-size: 0px;
+    height: 0px;
+    line-height: 0;
+    width: 100%;
+    overflow:hidden;
+}
 h1{ color: red;
 }
 h2{ color: green;
